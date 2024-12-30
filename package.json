@@ -1,0 +1,1 @@
+{"type":"module","dependencies":{"@faker-js/faker":"^9.3.0","axios":"^1.7.9","chalk":"^5.4.1","cowsay":"^1.6.0","figlet":"^1.8.0","inquirer":"^12.3.0","node-schedule":"^2.1.1","ora":"^8.1.1","play-sound":"^1.1.6","pokemon":"^3.2.1","qr-image":"^3.2.0"}}
