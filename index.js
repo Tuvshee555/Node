@@ -99,7 +99,7 @@ console.log(
 import qr from "qr-image"; // Use the 'import' syntax
 
 // Data to encode in the QR code
-const data = "https://vercel.com/tushkas-projects/gogo/settings/deployment-protection";
+const data = "Hello world";
 
 // Generate the QR code as an ASCII string
 const qr_ascii = qr.imageSync(data, { type: "svg" });
