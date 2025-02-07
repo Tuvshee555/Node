@@ -104,7 +104,7 @@ const data = "Hello world";
 // Generate the QR code as an ASCII string
 const qr_ascii = qr.imageSync(data, { type: "svg" });
 
-// Output the QR code to the terminal
+// Output the QR code to the terminall
 console.log(qr_ascii);
 
 import inquirer from 'inquirer';
